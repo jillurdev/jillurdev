@@ -51,3 +51,5 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 
 ![Jillur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jillurdev&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jillurdev&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jillurdev&theme=tokyonight&hide_border=true)
