@@ -1,44 +1,53 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## 👋 Hello! Welcome to my GitHub Profile
+## 👋 Hi, I'm Md Jillur Rahman
 
-I'm **Md Jillur Rahman**, a **Full-Stack Web Developer** working in this field since **2021**.
+A **Full-Stack Web Developer** crafting modern, scalable, and high-performance web applications since **2021**. I turn ideas into real-world digital products using the JavaScript ecosystem.
 
-I specialize in building modern, scalable, and high-performance web applications using JavaScript ecosystems and enjoy turning ideas into real-world digital products.
-
-<img src="assets/bangladesh.png" width="18"/> Based in Bangladesh.
+<img src="assets/bangladesh.png" width="18"/> Based in Bangladesh &nbsp;•&nbsp; Open to freelance & collaboration
 
 ---
 
-### ☕ Connect with me
+### 🌐 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jillur-rahman.vercel.app/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jillurdev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillurdev/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jillurdev/)
-[![X Badge](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jillurdev)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillurahmanjibon@gmail.com)
-[![Fiverr Badge](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/jillurtechpro/seller_dashboard)
-[![Upwork Badge](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7b4e6721cbeab75)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jillurdev/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jillurdev)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jillurdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jillurdev/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillurahmanjibon@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/jillurtechpro/seller_dashboard)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7b4e6721cbeab75)
 
 ---
 
 ### 💡 About Me
 
-💻 Full-stack developer focused on modern web technologies  
-🚀 Building scalable, maintainable and production-ready applications  
-🧠 Strong problem-solving mindset with real-world project experience since 2021  
-🎯 Passionate about UI/UX, performance optimization, and clean architecture  
-📩 Reach me at: **jillurahmanjibon@gmail.com**
+- 💻 Full-stack developer focused on modern web technologies
+- 🚀 Building scalable, maintainable, and production-ready applications
+- 🧠 Strong problem-solving mindset with real-world experience since 2021
+- 🎯 Passionate about UI/UX, performance optimization, and clean architecture
+- 📩 **jillurahmanjibon@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack
 
-JavaScript • TypeScript • React • Next.js • Node.js • Express • MongoDB • PostgreSQL • MySQL • Redux • Socket.IO
+**Frontend**
+`JavaScript` `TypeScript` `React` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `Material UI`
+
+**Backend**
+`Node.js` `Express` `Socket.IO` `REST APIs` `Stripe`
+
+**Database**
+`MongoDB` `PostgreSQL` `MySQL`
+
+**Tools**
+`Git` `GitHub` `VS Code` `Figma`
 
 ---
 
-### 🧰 Tools & Workflow
+### 📊 GitHub Stats
 
-Git • GitHub • VS Code • Figma • Tailwind CSS • Bootstrap • Material UI • Stripe • REST APIs
+![Jillur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
