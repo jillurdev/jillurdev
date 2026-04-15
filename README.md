@@ -2,9 +2,9 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-I'm **Md Jillur Rahman**, a **Senior Full-Stack Web Developer** with over **5 years of experience** in building scalable, high-performance web applications.
+I'm **Md Jillur Rahman**, a **Full-Stack Web Developer** working in this field since **2021**.
 
-I specialize in modern JavaScript ecosystems and love turning complex ideas into clean, efficient, and production-ready solutions.
+I specialize in building modern, scalable, and high-performance web applications using JavaScript ecosystems and enjoy turning ideas into real-world digital products.
 
 <img src="assets/bangladesh.png" width="18"/> Based in Bangladesh.
 
@@ -25,16 +25,17 @@ I specialize in modern JavaScript ecosystems and love turning complex ideas into
 
 ### 💡 About Me
 
-❤️ Passionate about building impactful digital products  
-💻 Clean, scalable and performance-focused code  
-🧠 Strong problem solver with product mindset  
-📩 Contact: **jillurahmanjibon@gmail.com**
+💻 Full-stack developer focused on modern web technologies  
+🚀 Building scalable, maintainable and production-ready applications  
+🧠 Strong problem-solving mindset with real-world project experience since 2021  
+🎯 Passionate about UI/UX, performance optimization, and clean architecture  
+📩 Reach me at: **jillurahmanjibon@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack
 
-[JavaScript] • [TypeScript] • [React] • [Next.js] • [Node.js] • [Express] • [MongoDB] • [PostgreSQL] • [MySQL] • [Redux] • [Socket.IO]
+JavaScript • TypeScript • React • Next.js • Node.js • Express • MongoDB • PostgreSQL • MySQL • Redux • Socket.IO
 
 ---
 
