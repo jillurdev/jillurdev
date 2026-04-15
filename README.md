@@ -2,9 +2,11 @@
 
 ## 👋 Hello! Welcome to my GitHub Profile
 
-I'm **Jillu Rahman Jibon**, a junior Web Developer from  
-<img src="assets/bangladesh.png" width="18"/> Bangladesh.  
-I spend most of my time building modern, scalable, and high-performance web applications.
+I'm **Md Jillur Rahman**, a **Senior Full-Stack Web Developer** with over **5 years of experience** in building scalable, high-performance web applications.
+
+I specialize in modern JavaScript ecosystems and love turning complex ideas into clean, efficient, and production-ready solutions.
+
+<img src="assets/bangladesh.png" width="18"/> Based in Bangladesh.
 
 ---
 
@@ -23,35 +25,19 @@ I spend most of my time building modern, scalable, and high-performance web appl
 
 ### 💡 About Me
 
-❤️ I enjoy programming and sharing knowledge  
-💻 Most used line of code: `console.log("Hello World")`  
-🤔 Looking for creative video ideas and execution strategies  
-📩 How to reach me: **jillurahmanjibon@gmail.com**
+❤️ Passionate about building impactful digital products  
+💻 Clean, scalable and performance-focused code  
+🧠 Strong problem solver with product mindset  
+📩 Contact: **jillurahmanjibon@gmail.com**
 
 ---
 
 ### 🚀 Tech Stack
 
-[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007ACC)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#)
-[![Node.js Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Express Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
+[JavaScript] • [TypeScript] • [React] • [Next.js] • [Node.js] • [Express] • [MongoDB] • [PostgreSQL] • [MySQL] • [Redux] • [Socket.IO]
 
 ---
 
-### 🧰 Tools & Styling
+### 🧰 Tools & Workflow
 
-[![VSCode Badge](https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![HTML Badge](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![Tailwind Badge](https://img.shields.io/badge/TailwindCSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)](#)
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
-[![Material UI Badge](https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)](#)
-[![Framer Motion Badge](https://img.shields.io/badge/Framer%20Motion-00B9E4?style=for-the-badge&logo=framer&logoColor=white)](#)
+Git • GitHub • VS Code • Figma • Tailwind CSS • Bootstrap • Material UI • Stripe • REST APIs
