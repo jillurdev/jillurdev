@@ -2,9 +2,9 @@
 
 ## 👋 Hi, I'm Md Jillur Rahman
 
-A **Full-Stack Web Developer** crafting modern, scalable, and high-performance web applications since **2021**. I turn ideas into real-world digital products using the JavaScript ecosystem.
+A **Full-Stack Web Developer** crafting modern, scalable, and high-performance web applications since **2021**. I turn ideas into real-world digital products using the JavaScript/TypeScript ecosystem — from backend architecture to pixel-perfect frontends.
 
-<img src="assets/bangladesh.png" width="18"/> Based in Bangladesh &nbsp;•&nbsp; Open to freelance & collaboration
+<img src="assets/bangladesh.png" width="18"/> Based in Bangladesh &nbsp;•&nbsp; Open to freelance & collaboration &nbsp;•&nbsp; Full-stack ownership, no need to juggle multiple freelancers
 
 ---
 
@@ -23,10 +23,14 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 
 ### 💡 About Me
 
-- 💻 Full-stack developer focused on modern web technologies
-- 🚀 Building scalable, maintainable, and production-ready applications
-- 🧠 Strong problem-solving mindset with real-world experience since 2021
-- 🎯 Passionate about UI/UX, performance optimization, and clean architecture
+- 💻 Full-stack developer with **~2 years of full-time production experience**, building since 2021
+- 🚀 Shipped production systems including a **secure escrow/fintech payment platform**, an **AI-powered legal tech tool**, and a **real-time multilingual translation platform**
+- 🔐 Deep experience with **authentication (JWT, OAuth 2.0)**, custom **dynamic RBAC systems**, and **payment integrations** (Stripe, SSLCommerz, Flutterwave)
+- ⚡ Comfortable with real-time systems and background jobs — **Socket.IO, LiveKit, Redis, Bull queues, OpenSearch, FCM**
+- 🤖 AI-augmented workflow — integrating **OpenAI API** for AI-powered product features
+- 📱 Cross-platform mobile development with **Flutter** (single codebase, iOS & Android)
+- ☁️ Hands-on with **AWS (EC2, VPC, S3)**, Docker, Ubuntu server management, and CI/CD (GitHub Actions)
+- 🧠 Quick to pick up new tech — MongoDB to Supabase, whatever the project needs
 - 📩 **jillurlabs@gmail.com**
 
 ---
@@ -34,16 +38,34 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 ### 🚀 Tech Stack
 
 **Frontend**
-`JavaScript` `TypeScript` `React` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `Material UI`
+`JavaScript` `TypeScript` `React` `Next.js` `Redux` `Tailwind CSS` `Bootstrap` `Material UI` `HTML5/CSS3`
 
 **Backend**
-`Node.js` `Express` `Socket.IO` `REST APIs` `Stripe`
+`Node.js` `Express` `NestJS` `REST APIs` `Socket.IO` `LiveKit` `Stripe` `SSLCommerz` `Flutterwave`
 
-**Database**
-`MongoDB` `PostgreSQL` `MySQL`
+**Database & ORM**
+`PostgreSQL` `MongoDB` `MySQL` `Prisma` `Redis`
+
+**Cloud & Infrastructure**
+`AWS (EC2, VPC, S3)` `Docker` `Nginx` `Ubuntu Server` `GitHub Actions (CI/CD)`
+
+**AI & Search**
+`OpenAI API` `OpenSearch`
+
+**Mobile**
+`Flutter`
 
 **Tools**
 `Git` `GitHub` `VS Code` `Figma`
+
+---
+
+### 🏗️ Recent Work
+
+- 🚀 **Takanibo** — Bangladesh-based ad reward platform, built end-to-end (Flutter + backend)
+- 🚀 **Fintech Escrow Platform** — Redis caching, background jobs, real-time notifications, custom RBAC
+- 🚀 **AI-Powered Legal Tech Platform** — OpenAI integration with OpenSearch indexing
+- 🚀 **Real-Time Multilingual Translation Platform** — LiveKit-based voice pipeline (STT/MT/TTS)
 
 ---
 
@@ -51,5 +73,4 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 
 ![Jillur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jillurdev&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jillurdev&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=jillurdev&theme=tokyonight&hide_border=true)
