@@ -15,7 +15,7 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jillurdev)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/jillurdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jillurdev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillurahmanjibon@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jillurlabs@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/jillurtechpro/seller_dashboard)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a7b4e6721cbeab75)
 
@@ -27,7 +27,7 @@ A **Full-Stack Web Developer** crafting modern, scalable, and high-performance w
 - 🚀 Building scalable, maintainable, and production-ready applications
 - 🧠 Strong problem-solving mindset with real-world experience since 2021
 - 🎯 Passionate about UI/UX, performance optimization, and clean architecture
-- 📩 **jillurahmanjibon@gmail.com**
+- 📩 **jillurlabs@gmail.com**
 
 ---
 
