@@ -191,11 +191,12 @@ Currently focused on:
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-* Portfolio
-* LinkedIn
-* Upwork
-* X (Twitter)
+* 🌐 **Portfolio:** https://jillur-rahman.vercel.app/
+* 💼 **LinkedIn:** https://www.linkedin.com/in/jillurdev/
+* 💻 **Upwork:** https://www.upwork.com/freelancers/~01a7b4e6721cbeab75
+* 🐦 **X (Twitter):** https://x.com/jillurdev
 
 I'm always interested in discussing new products, SaaS ideas, AI-powered applications, and long-term development partnerships.
+
